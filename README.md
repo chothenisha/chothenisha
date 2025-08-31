@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Nisha Chothe  
+# 👋 Hi, I'm Nisha Chothe  
 
 🎓 Master's in Embedded Systems (TU Chemnitz, Germany)  
 🎓 Bachelor's in Electrical Engineering (India)  
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👩🏽‍💻 About Me
 I’m an ML and AI enthusiast with a strong engineering foundation and international academic experience.  
 After completing my Master’s at **TU Chemnitz** and my Bachelor’s in **Electrical Engineering**, I focused on **Machine Learning, Computer Vision, and Deep Learning**, and recently started working in **DevOps** to strengthen my expertise in cloud-native environments.  
 
